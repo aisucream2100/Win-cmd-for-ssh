@@ -4,7 +4,7 @@
 
 Zipではなくインストーラーを入れました。  
 
-[ここからダウンロード]([https://github.com/aisucream2100/Win-cmd-for-ssh/raw/refs/heads/main/win_cmd_for_%20ssh-x64_1.0.1setup.zip]
+[ここからダウンロード]([https://github.com/aisucream2100/Win-cmd-for-ssh/raw/refs/heads/main/win_cmd_for_%20ssh-x64_1.0.1setup.zip)
 ----------------------------------------
 # リリースノート　v.1.0.0
 1.開発環境
